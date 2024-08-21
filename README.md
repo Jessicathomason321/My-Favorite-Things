@@ -7,12 +7,12 @@
 
   <head>
     <link href="css/styles.css" rel="stylesheet" type="text/css">
-    <title>Michael's favorite things</title>
   </head>
 
   <body>
     <h1>My Favorite Things</h1>
-    <uL Rivers Lakes Parks Beaches Mountains uL>
+    <uL>
+      Rivers Lakes Parks Beaches Mountains </uL>
 
   </body>
 
